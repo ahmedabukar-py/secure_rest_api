@@ -164,6 +164,3 @@ dmypy.json
 # Security Configuration
 cert
 .password
-
-terraform.*
-terraform-infra/.terraform.*
