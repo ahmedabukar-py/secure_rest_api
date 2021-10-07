@@ -166,3 +166,4 @@ cert
 .password
 
 terraform.*
+.terraform.*
