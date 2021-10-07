@@ -166,4 +166,4 @@ cert
 .password
 
 terraform.*
-secure_rest_api/terraform-infra/.terraform.*
+terraform-infra/.terraform.*
